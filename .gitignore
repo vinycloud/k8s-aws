@@ -8,6 +8,7 @@
 *.terraform.lock.*
 *.auto.tfvars
 *.terraform
+*.infracost
 
 # Crash log files
 crash.log
