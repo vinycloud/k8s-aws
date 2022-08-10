@@ -1,1 +1,1 @@
-{"Modules":[]}
+{"Modules":[{"Key":"k8s","Source":"./module/ec2","Dir":"module/ec2"}]}

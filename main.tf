@@ -1,5 +1,5 @@
 module "k8s" {
-  source             = "../module/ec2"
+  source             = "./module/ec2"
   instance_name      = var.ec2_instance_name
   instance_type      = var.ec2_instance_type
   subnet_id          = var.ec2_subnet_id
