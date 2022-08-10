@@ -6,6 +6,8 @@
 *.tfstate.*
 *.pem
 *.terraform.lock.*
+*.auto.tfvars
+*.terraform
 
 # Crash log files
 crash.log
